@@ -1,0 +1,12 @@
+<suite name="MaasHesaplamaTest Suite" verbose="1" parallel="true" thread-count="11">
+    <test name="Test 1">
+        <classes>
+            <class name="maasHesaplamaTest"/>
+        </classes>
+    </test>
+        <test name="Test 2">
+        <classes>
+            <class name="maasHesaplamaTestWithData"/>
+        </classes>
+    </test>
+</suite>
